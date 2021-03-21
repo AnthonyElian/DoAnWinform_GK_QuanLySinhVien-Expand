@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -79,7 +80,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
 
         private void btnLogin_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("Are you sure ?!?", "Warning", MessageBoxButtons.OKCancel) != System.Windows.Forms.DialogResult.OK)
+            if (MessageBox.Show("Are you sure ?!?", "Warning", MessageBoxButtons.OKCancel,MessageBoxIcon.Warning) != System.Windows.Forms.DialogResult.OK)
             {
                 e.Cancel = true;
             }
@@ -116,6 +117,38 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             {
                 this.btnLog.Focus();
             }   
+        }
+
+        // Register
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.Hide();
+            Form register = new Register();
+            register.ShowDialog();
+            this.Show();
+        }
+
+        private void txtUser_Leave(object sender, EventArgs e)
+        {
+            if (this.txtUser.Text == "")
+            {
+                this.txtUser.Text = "Write your username";
+                this.txtUser.ForeColor = Color.Silver;
+            }
+        }
+
+        private void txtUser_Enter(object sender, EventArgs e)
+        {
+            if (this.txtUser.Text == "Write your username")
+            {
+                this.txtUser.Text = "";
+                this.txtUser.ForeColor = Color.Black;
+            }
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Process.Start("http://athonyducthang.ueuo.com/");
         }
     }
 }

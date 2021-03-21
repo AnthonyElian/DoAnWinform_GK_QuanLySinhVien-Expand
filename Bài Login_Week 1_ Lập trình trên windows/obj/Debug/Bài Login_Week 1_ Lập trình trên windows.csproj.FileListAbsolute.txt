@@ -20,3 +20,19 @@ E:\HK2_21\Lập trình trên Window HK2_21\Week_1\Bài tập\Bài Login_Week 1_ 
 E:\HK2_21\Lập trình trên Window HK2_21\Week_1\Bài tập\Bài Login_Week 1_ Lập trình trên windows\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.AddStudentForm.resources
 E:\HK2_21\Lập trình trên Window HK2_21\Week_1\Bài tập\Bài Login_Week 1_ Lập trình trên windows\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.MainForm.resources
 E:\HK2_21\Lập trình trên Window HK2_21\Week_1\Bài tập\Bài Login_Week 1_ Lập trình trên windows\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.Form1.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\bin\Debug\Bài Login_Week 1_ Lập trình trên windows.exe.config
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\bin\Debug\Bài Login_Week 1_ Lập trình trên windows.exe
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\bin\Debug\Bài Login_Week 1_ Lập trình trên windows.pdb
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài Login_Week 1_ Lập trình trên windows.csprojAssemblyReference.cache
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.AddStudentForm.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.Form1.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.MainForm.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.Properties.Resources.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài Login_Week 1_ Lập trình trên windows.csproj.GenerateResource.cache
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài Login_Week 1_ Lập trình trên windows.csproj.CoreCompileInputs.cache
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài Login_Week 1_ Lập trình trên windows.exe
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài Login_Week 1_ Lập trình trên windows.pdb
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.Register.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.studentListForm.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.UpdateDeleteStudentForm.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.Searching.resources

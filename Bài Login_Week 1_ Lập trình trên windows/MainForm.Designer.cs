@@ -37,6 +37,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.editRemoveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.manageStudentFormToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.printToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.searchingToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cOURSEToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sCOREToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
@@ -63,7 +64,8 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.staticToolStripMenuItem,
             this.editRemoveToolStripMenuItem,
             this.manageStudentFormToolStripMenuItem,
-            this.printToolStripMenuItem});
+            this.printToolStripMenuItem,
+            this.searchingToolStripMenuItem});
             this.sTUDENTToolStripMenuItem.Name = "sTUDENTToolStripMenuItem";
             this.sTUDENTToolStripMenuItem.Size = new System.Drawing.Size(87, 24);
             this.sTUDENTToolStripMenuItem.Text = "STUDENT";
@@ -82,6 +84,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.studentsListToolStripMenuItem.Name = "studentsListToolStripMenuItem";
             this.studentsListToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.studentsListToolStripMenuItem.Text = "Students List";
+            this.studentsListToolStripMenuItem.Click += new System.EventHandler(this.studentsListToolStripMenuItem_Click);
             // 
             // staticToolStripMenuItem
             // 
@@ -110,6 +113,14 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.printToolStripMenuItem.Name = "printToolStripMenuItem";
             this.printToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.printToolStripMenuItem.Text = "Print";
+            // 
+            // searchingToolStripMenuItem
+            // 
+            this.searchingToolStripMenuItem.BackColor = System.Drawing.Color.Tan;
+            this.searchingToolStripMenuItem.Name = "searchingToolStripMenuItem";
+            this.searchingToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
+            this.searchingToolStripMenuItem.Text = "Searching";
+            this.searchingToolStripMenuItem.Click += new System.EventHandler(this.searchingToolStripMenuItem_Click);
             // 
             // cOURSEToolStripMenuItem
             // 
@@ -152,5 +163,6 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
         private System.Windows.Forms.ToolStripMenuItem printToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cOURSEToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sCOREToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem searchingToolStripMenuItem;
     }
 }
