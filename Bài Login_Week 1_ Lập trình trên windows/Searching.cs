@@ -59,5 +59,15 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
                 }    
             }
         }
+
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cBSearch_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

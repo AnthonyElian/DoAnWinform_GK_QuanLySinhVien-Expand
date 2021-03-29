@@ -36,3 +36,8 @@ E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập t
 E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.studentListForm.resources
 E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.UpdateDeleteStudentForm.resources
 E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.Searching.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\bin\Debug\Guna.UI.dll
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.StaticsForm.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài Login_Week 1_ Lập trình trên windows.csproj.CopyComplete
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.Print.resources
+E:\HK2_21\Lập trình trên Window HK2_21\DoAnTaiLop\Bài Login_Week 1_ Lập trình trên windows\obj\Debug\Bài_Login_Week_1__Lập_trình_trên_windows.ManageStudentForm.resources

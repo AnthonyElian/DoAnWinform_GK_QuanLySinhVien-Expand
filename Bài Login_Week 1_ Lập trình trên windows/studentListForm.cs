@@ -68,5 +68,10 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             picCol.ImageLayout = DataGridViewImageCellLayout.Stretch;
             this.dataGridView1.AllowUserToAddRows = false;
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

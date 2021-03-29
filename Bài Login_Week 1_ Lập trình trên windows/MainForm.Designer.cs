@@ -52,7 +52,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.sCOREToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -67,7 +67,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.printToolStripMenuItem,
             this.searchingToolStripMenuItem});
             this.sTUDENTToolStripMenuItem.Name = "sTUDENTToolStripMenuItem";
-            this.sTUDENTToolStripMenuItem.Size = new System.Drawing.Size(87, 24);
+            this.sTUDENTToolStripMenuItem.Size = new System.Drawing.Size(87, 26);
             this.sTUDENTToolStripMenuItem.Text = "STUDENT";
             // 
             // addNewStudentToolStripMenuItem
@@ -92,6 +92,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.staticToolStripMenuItem.Name = "staticToolStripMenuItem";
             this.staticToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.staticToolStripMenuItem.Text = "Static";
+            this.staticToolStripMenuItem.Click += new System.EventHandler(this.staticToolStripMenuItem_Click);
             // 
             // editRemoveToolStripMenuItem
             // 
@@ -99,6 +100,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.editRemoveToolStripMenuItem.Name = "editRemoveToolStripMenuItem";
             this.editRemoveToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.editRemoveToolStripMenuItem.Text = "Edit / Remove";
+            this.editRemoveToolStripMenuItem.Click += new System.EventHandler(this.editRemoveToolStripMenuItem_Click);
             // 
             // manageStudentFormToolStripMenuItem
             // 
@@ -106,6 +108,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.manageStudentFormToolStripMenuItem.Name = "manageStudentFormToolStripMenuItem";
             this.manageStudentFormToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.manageStudentFormToolStripMenuItem.Text = "Manage Student Form";
+            this.manageStudentFormToolStripMenuItem.Click += new System.EventHandler(this.manageStudentFormToolStripMenuItem_Click);
             // 
             // printToolStripMenuItem
             // 
@@ -113,6 +116,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.printToolStripMenuItem.Name = "printToolStripMenuItem";
             this.printToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.printToolStripMenuItem.Text = "Print";
+            this.printToolStripMenuItem.Click += new System.EventHandler(this.printToolStripMenuItem_Click);
             // 
             // searchingToolStripMenuItem
             // 

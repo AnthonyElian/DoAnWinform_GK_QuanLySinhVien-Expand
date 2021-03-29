@@ -48,6 +48,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.cBSearch.Name = "cBSearch";
             this.cBSearch.Size = new System.Drawing.Size(184, 24);
             this.cBSearch.TabIndex = 0;
+            this.cBSearch.SelectedIndexChanged += new System.EventHandler(this.cBSearch_SelectedIndexChanged);
             // 
             // btnSearch
             // 
@@ -78,6 +79,7 @@ namespace Bài_Login_Week_1__Lập_trình_trên_windows
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(184, 22);
             this.txtSearch.TabIndex = 9;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
             // dataGridView1
             // 
